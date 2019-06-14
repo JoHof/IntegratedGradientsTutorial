@@ -1,5 +1,5 @@
 # Integrated Gradients Tutorial
-Very concise toy example of integrated gradients (a method to reveal areas of attention in input images) 
+Very concise toy example of integrated gradients (a method to reveal areas of attention of neural networks in input images) 
 
 Integrated Gradients were proposed by Sundararajan et al. in the paper:
 
